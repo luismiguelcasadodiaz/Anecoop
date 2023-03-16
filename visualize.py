@@ -80,8 +80,7 @@ if __name__ == "__main__":
 
 
   #px.histogram(datos.df, x='diameter', nbins = datos.num_bins, marginal='violin')
-  print("Trabajo terminado")
-  """
+  print("Trabajo terminado desde Windows")
   fig.add_annotation(
           text=f'Full mean = {round(datos.get_mean(),2)}',
           xref="paper", yref="paper",
